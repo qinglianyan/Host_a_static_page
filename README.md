@@ -1,0 +1,2 @@
+# Host_a_static_page
+尝试用GitHub托管一个静态页面
